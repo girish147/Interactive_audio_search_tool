@@ -1,0 +1,406 @@
+PS C:\Users\gari2\OneDrive\Desktop\Proj> python Code.py
+Enter the name of the video file: Monkey
+ffmpeg version 2024-06-06-git-d55f5cba7b-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      59. 21.100 / 59. 21.100
+  libavcodec     61.  6.100 / 61.  6.100
+  libavformat    61.  3.104 / 61.  3.104
+  libavdevice    61.  2.100 / 61.  2.100
+  libavfilter    10.  2.102 / 10.  2.102
+  libswscale      8.  2.100 /  8.  2.100
+  libswresample   5.  2.100 /  5.  2.100
+  libpostproc    58.  2.100 / 58.  2.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\gari2\OneDrive\Desktop\Proj\Monkey.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2024-03-05T05:15:07.000000Z
+  Duration: 00:01:31.42, start: 0.000000, bitrate: 1172 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 1041 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+      Metadata:
+        creation_time   : 2024-03-05T05:15:07.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 03/04/2024.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+      Metadata:
+        creation_time   : 2024-03-05T05:15:07.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 03/04/2024.
+        vendor_id       : [0][0][0][0]
+File 'C:\Users\gari2\OneDrive\Desktop\Proj\Monkey.wav' already exists. Overwrite? [y/N] y
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'C:\Users\gari2\OneDrive\Desktop\Proj\Monkey.wav':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    ISFT            : Lavf61.3.104
+  Stream #0:0(eng): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s (default)
+      Metadata:
+        creation_time   : 2024-03-05T05:15:07.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 03/04/2024.
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.6.100 pcm_s16le
+[out#0/wav @ 000002973e3ca6c0] video:0KiB audio:15748KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000484%
+size=   15748KiB time=00:01:31.41 bitrate=1411.2kbits/s speed= 541x
+Sphinx thinks you said
+the naughty monkey eliminate them in any monkey sitting on a mango tree one of them was a big multi monkey he enjoyed sharpening the other people and painted all of that goods all the remaining monkeys houston is happy and enjoy him nights due to low rainfall wants the village was shiny didn't exist decided to build a temple and everyone got involved in the construction work quite often the ones that got in tears left the job and went for lunch then go de monte came over to the construction site with his goods to show up a piece of wood extending the debt to pull it off a group of law holds the guillotine monkey didn't understand it being he'd tell it in his mind what is it why he should look to the group of knowledge and life and limb will brooks the nazi monkey who was sitting on the piece of wood began to mosaic and try to move the knowledge because of the shaking the end this task jet couldn't stand and it fell apart all along spellbound and the form monkees let go let trapped he began to mourn in pain finally the monte god wanted to sell it in this story we then that we should not to step out of court and noah doing it being without prior thoughts
+Entire text for the audio file - C:\Users\gari2\OneDrive\Desktop\Proj\Monkey.wav : the naughty monkey eliminate them in any monkey sitting on a mango tree one of them was a big multi monkey he enjoyed sharpening the other people and painted all of that goods all the remaining monkeys houston is happy and enjoy him nights due to low rainfall wants the village was shiny didn't exist decided to build a temple and everyone got involved in the construction work quite often the ones that got in tears left the job and went for lunch then go de monte came over to the construction site with his goods to show up a piece of wood extending the debt to pull it off a group of law holds the guillotine monkey didn't understand it being he'd tell it in his mind what is it why he should look to the group of knowledge and life and limb will brooks the nazi monkey who was sitting on the piece of wood began to mosaic and try to move the knowledge because of the shaking the end this task jet couldn't stand and it fell apart all along spellbound and the form monkees let go let trapped he began to mourn in pain finally the monte god wanted to sell it in this story we then that we should not to step out of court and noah doing it being without prior thoughts
+Checking segment [<s>] begins at 0.0 & ends at 0.09 seconds
+Skipping segment - <s>
+Checking segment [the] begins at 0.1 & ends at 0.22 seconds
+Checking segment [naughty] begins at 0.23 & ends at 0.74 seconds
+Checking segment [monkey] begins at 0.75 & ends at 1.49 seconds
+Checking segment [<sil>] begins at 1.5 & ends at 2.03 seconds
+Skipping segment - <sil>
+Checking segment [[NOISE]] begins at 2.04 & ends at 2.37 seconds
+Checking segment [<sil>] begins at 2.38 & ends at 2.47 seconds
+Skipping segment - <sil>
+Checking segment [eliminate] begins at 2.48 & ends at 3.15 seconds
+Checking segment [them] begins at 3.16 & ends at 3.42 seconds
+Checking segment [in] begins at 3.43 & ends at 3.63 seconds
+Checking segment [any] begins at 3.64 & ends at 3.86 seconds
+Checking segment [monkey] begins at 3.87 & ends at 4.42 seconds
+Checking segment [sitting] begins at 4.43 & ends at 4.82 seconds
+Checking segment [on] begins at 4.83 & ends at 5.02 seconds
+Checking segment [a] begins at 5.03 & ends at 5.07 seconds
+Checking segment [mango] begins at 5.08 & ends at 5.47 seconds
+Checking segment [tree] begins at 5.48 & ends at 5.99 seconds
+Checking segment [<sil>] begins at 6.0 & ends at 6.25 seconds
+Skipping segment - <sil>
+Checking segment [[NOISE]] begins at 6.26 & ends at 6.53 seconds
+Checking segment [one] begins at 6.54 & ends at 6.78 seconds
+Checking segment [of] begins at 6.79 & ends at 6.95 seconds
+Checking segment [them] begins at 6.96 & ends at 7.26 seconds
+Checking segment [was(2)] begins at 7.27 & ends at 7.45 seconds
+Checking segment [a] begins at 7.46 & ends at 7.5 seconds
+Checking segment [big] begins at 7.51 & ends at 7.95 seconds
+Checking segment [multi] begins at 7.96 & ends at 8.43 seconds
+Checking segment [monkey] begins at 8.44 & ends at 9.05 seconds
+Checking segment [<sil>] begins at 9.06 & ends at 9.23 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 9.24 & ends at 9.55 seconds
+Skipping segment - <sil>
+Checking segment [he] begins at 9.56 & ends at 9.75 seconds
+Checking segment [enjoyed(2)] begins at 9.76 & ends at 10.42 seconds
+Checking segment [sharpening] begins at 10.43 & ends at 10.91 seconds
+Checking segment [the] begins at 10.92 & ends at 10.99 seconds
+Checking segment [<sil>] begins at 11.0 & ends at 11.02 seconds
+Skipping segment - <sil>
+Checking segment [other] begins at 11.03 & ends at 11.3 seconds
+Checking segment [people] begins at 11.31 & ends at 11.79 seconds
+Checking segment [and(2)] begins at 11.8 & ends at 12.12 seconds
+Checking segment [painted] begins at 12.13 & ends at 12.73 seconds
+Checking segment [all] begins at 12.74 & ends at 12.92 seconds
+Checking segment [of] begins at 12.93 & ends at 13.05 seconds
+Checking segment [<sil>] begins at 13.06 & ends at 13.09 seconds
+Skipping segment - <sil>
+Checking segment [that] begins at 13.1 & ends at 13.35 seconds
+Checking segment [<sil>] begins at 13.36 & ends at 13.39 seconds
+Skipping segment - <sil>
+Checking segment [goods] begins at 13.4 & ends at 13.91 seconds
+Checking segment [[NOISE]] begins at 13.92 & ends at 14.31 seconds
+Checking segment [<sil>] begins at 14.32 & ends at 14.48 seconds
+Skipping segment - <sil>
+Checking segment [all] begins at 14.49 & ends at 14.75 seconds
+Checking segment [the] begins at 14.76 & ends at 14.86 seconds
+Checking segment [remaining] begins at 14.87 & ends at 15.29 seconds
+Checking segment [monkeys] begins at 15.3 & ends at 15.92 seconds
+Checking segment [<sil>] begins at 15.93 & ends at 16.12 seconds
+Skipping segment - <sil>
+Checking segment [houston] begins at 16.13 & ends at 16.56 seconds
+Checking segment [is] begins at 16.57 & ends at 16.71 seconds
+Checking segment [happy] begins at 16.72 & ends at 17.32 seconds
+Checking segment [and(2)] begins at 17.33 & ends at 17.49 seconds
+Checking segment [enjoy(2)] begins at 17.5 & ends at 17.95 seconds
+Checking segment [him] begins at 17.96 & ends at 18.21 seconds
+Checking segment [nights] begins at 18.22 & ends at 18.87 seconds
+Checking segment [<sil>] begins at 18.88 & ends at 19.33 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 19.34 & ends at 19.49 seconds
+Skipping segment - <sil>
+Checking segment [due(2)] begins at 19.5 & ends at 19.79 seconds
+Checking segment [to] begins at 19.8 & ends at 20.03 seconds
+Checking segment [low] begins at 20.04 & ends at 20.36 seconds
+Checking segment [rainfall] begins at 20.37 & ends at 21.03 seconds
+Checking segment [<sil>] begins at 21.04 & ends at 21.24 seconds
+Skipping segment - <sil>
+Checking segment [wants] begins at 21.25 & ends at 21.67 seconds
+Checking segment [the] begins at 21.68 & ends at 21.77 seconds
+Checking segment [village(2)] begins at 21.78 & ends at 22.19 seconds
+Checking segment [was(2)] begins at 22.2 & ends at 22.51 seconds
+Checking segment [shiny] begins at 22.52 & ends at 23.04 seconds
+Checking segment [<sil>] begins at 23.05 & ends at 23.52 seconds
+Skipping segment - <sil>
+Checking segment [didn't(3)] begins at 23.53 & ends at 23.87 seconds
+Checking segment [exist] begins at 23.88 & ends at 24.26 seconds
+Checking segment [decided] begins at 24.27 & ends at 24.81 seconds
+Checking segment [to(2)] begins at 24.82 & ends at 24.92 seconds
+Checking segment [build] begins at 24.93 & ends at 25.28 seconds
+Checking segment [a] begins at 25.29 & ends at 25.38 seconds
+Checking segment [temple] begins at 25.39 & ends at 25.94 seconds
+Checking segment [and(2)] begins at 25.95 & ends at 26.24 seconds
+Checking segment [everyone] begins at 26.25 & ends at 26.85 seconds
+Checking segment [got] begins at 26.86 & ends at 27.19 seconds
+Checking segment [involved] begins at 27.2 & ends at 27.71 seconds
+Checking segment [in] begins at 27.72 & ends at 27.82 seconds
+Checking segment [the] begins at 27.83 & ends at 27.89 seconds
+Checking segment [construction] begins at 27.9 & ends at 28.61 seconds
+Checking segment [work] begins at 28.62 & ends at 29.11 seconds
+Checking segment [<sil>] begins at 29.12 & ends at 30.94 seconds
+Skipping segment - <sil>
+Checking segment [quite] begins at 30.95 & ends at 31.33 seconds
+Checking segment [often(2)] begins at 31.34 & ends at 31.68 seconds
+Checking segment [the] begins at 31.69 & ends at 31.78 seconds
+Checking segment [ones] begins at 31.79 & ends at 32.01 seconds
+Checking segment [<sil>] begins at 32.02 & ends at 32.24 seconds
+Skipping segment - <sil>
+Checking segment [that(2)] begins at 32.25 & ends at 32.42 seconds
+Checking segment [got] begins at 32.43 & ends at 32.72 seconds
+Checking segment [in] begins at 32.73 & ends at 32.88 seconds
+Checking segment [tears] begins at 32.89 & ends at 33.13 seconds
+Checking segment [left] begins at 33.14 & ends at 33.44 seconds
+Checking segment [the] begins at 33.45 & ends at 33.55 seconds
+Checking segment [job] begins at 33.56 & ends at 33.94 seconds
+Checking segment [<sil>] begins at 33.95 & ends at 34.26 seconds
+Skipping segment - <sil>
+Checking segment [and(2)] begins at 34.27 & ends at 34.42 seconds
+Checking segment [went] begins at 34.43 & ends at 34.73 seconds
+Checking segment [for(2)] begins at 34.74 & ends at 34.89 seconds
+Checking segment [lunch] begins at 34.9 & ends at 35.51 seconds
+Checking segment [<sil>] begins at 35.52 & ends at 35.62 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 35.63 & ends at 36.1 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 36.11 & ends at 36.27 seconds
+Skipping segment - <sil>
+Checking segment [then] begins at 36.28 & ends at 36.49 seconds
+Checking segment [go] begins at 36.5 & ends at 36.65 seconds
+Checking segment [de] begins at 36.66 & ends at 36.81 seconds
+Checking segment [monte] begins at 36.82 & ends at 37.35 seconds
+Checking segment [came] begins at 37.36 & ends at 37.73 seconds
+Checking segment [<sil>] begins at 37.74 & ends at 37.78 seconds
+Skipping segment - <sil>
+Checking segment [over] begins at 37.79 & ends at 38.18 seconds
+Checking segment [to(2)] begins at 38.19 & ends at 38.29 seconds
+Checking segment [the] begins at 38.3 & ends at 38.38 seconds
+Checking segment [construction] begins at 38.39 & ends at 39.1 seconds
+Checking segment [site] begins at 39.11 & ends at 39.59 seconds
+Checking segment [<sil>] begins at 39.6 & ends at 39.62 seconds
+Skipping segment - <sil>
+Checking segment [with] begins at 39.63 & ends at 39.79 seconds
+Checking segment [his] begins at 39.8 & ends at 40.03 seconds
+Checking segment [<sil>] begins at 40.04 & ends at 40.06 seconds
+Skipping segment - <sil>
+Checking segment [goods] begins at 40.07 & ends at 40.63 seconds
+Checking segment [<sil>] begins at 40.64 & ends at 40.92 seconds
+Skipping segment - <sil>
+Checking segment [[NOISE]] begins at 40.93 & ends at 41.16 seconds
+Checking segment [to] begins at 41.17 & ends at 41.35 seconds
+Checking segment [show] begins at 41.36 & ends at 41.58 seconds
+Checking segment [up] begins at 41.59 & ends at 41.67 seconds
+Checking segment [a] begins at 41.68 & ends at 41.74 seconds
+Checking segment [piece] begins at 41.75 & ends at 42.12 seconds
+Checking segment [of] begins at 42.13 & ends at 42.34 seconds
+Checking segment [wood] begins at 42.35 & ends at 42.65 seconds
+Checking segment [[NOISE]] begins at 42.66 & ends at 42.81 seconds
+Checking segment [extending] begins at 42.82 & ends at 43.58 seconds
+Checking segment [the] begins at 43.59 & ends at 43.67 seconds
+Checking segment [debt] begins at 43.68 & ends at 43.85 seconds
+Checking segment [to(2)] begins at 43.86 & ends at 43.98 seconds
+Checking segment [pull] begins at 43.99 & ends at 44.26 seconds
+Checking segment [it] begins at 44.27 & ends at 44.38 seconds
+Checking segment [<sil>] begins at 44.39 & ends at 44.42 seconds
+Skipping segment - <sil>
+Checking segment [off] begins at 44.43 & ends at 44.57 seconds
+Checking segment [a] begins at 44.58 & ends at 44.61 seconds
+Checking segment [group] begins at 44.62 & ends at 44.97 seconds
+Checking segment [of] begins at 44.98 & ends at 45.11 seconds
+Checking segment [law(2)] begins at 45.12 & ends at 45.35 seconds
+Checking segment [holds] begins at 45.36 & ends at 45.78 seconds
+Checking segment [<sil>] begins at 45.79 & ends at 46.21 seconds
+Skipping segment - <sil>
+Checking segment [the] begins at 46.22 & ends at 46.34 seconds
+Checking segment [guillotine] begins at 46.35 & ends at 46.77 seconds
+Checking segment [monkey] begins at 46.78 & ends at 47.31 seconds
+Checking segment [<sil>] begins at 47.32 & ends at 47.4 seconds
+Skipping segment - <sil>
+Checking segment [didn't] begins at 47.41 & ends at 47.82 seconds
+Checking segment [understand] begins at 47.83 & ends at 48.45 seconds
+Checking segment [it] begins at 48.46 & ends at 48.68 seconds
+Checking segment [being] begins at 48.69 & ends at 48.99 seconds
+Checking segment [<sil>] begins at 49.0 & ends at 49.11 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 49.12 & ends at 49.42 seconds
+Skipping segment - <sil>
+Checking segment [he'd] begins at 49.43 & ends at 49.68 seconds
+Checking segment [tell] begins at 49.69 & ends at 49.86 seconds
+Checking segment [it] begins at 49.87 & ends at 49.95 seconds
+Checking segment [in] begins at 49.96 & ends at 50.05 seconds
+Checking segment [his] begins at 50.06 & ends at 50.27 seconds
+Checking segment [mind] begins at 50.28 & ends at 50.78 seconds
+Checking segment [<sil>] begins at 50.79 & ends at 51.1 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 51.11 & ends at 51.56 seconds
+Skipping segment - <sil>
+Checking segment [what] begins at 51.57 & ends at 51.75 seconds
+Checking segment [is] begins at 51.76 & ends at 51.94 seconds
+Checking segment [<sil>] begins at 51.95 & ends at 52.02 seconds
+Skipping segment - <sil>
+Checking segment [it] begins at 52.03 & ends at 52.47 seconds
+Checking segment [<sil>] begins at 52.48 & ends at 52.8 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 52.81 & ends at 52.94 seconds
+Skipping segment - <sil>
+Checking segment [why] begins at 52.95 & ends at 53.28 seconds
+Checking segment [he] begins at 53.29 & ends at 53.38 seconds
+Checking segment [should] begins at 53.39 & ends at 53.55 seconds
+Checking segment [<sil>] begins at 53.56 & ends at 53.69 seconds
+Skipping segment - <sil>
+Checking segment [look] begins at 53.7 & ends at 53.98 seconds
+Checking segment [to(3)] begins at 53.99 & ends at 54.04 seconds
+Checking segment [the] begins at 54.05 & ends at 54.12 seconds
+Checking segment [group] begins at 54.13 & ends at 54.37 seconds
+Checking segment [of] begins at 54.38 & ends at 54.56 seconds
+Checking segment [knowledge] begins at 54.57 & ends at 55.19 seconds
+Checking segment [<sil>] begins at 55.2 & ends at 55.5 seconds
+Skipping segment - <sil>
+Checking segment [and(2)] begins at 55.51 & ends at 55.73 seconds
+Checking segment [life] begins at 55.74 & ends at 55.99 seconds
+Checking segment [and] begins at 56.0 & ends at 56.13 seconds
+Checking segment [limb] begins at 56.14 & ends at 56.32 seconds
+Checking segment [will(2)] begins at 56.33 & ends at 56.5 seconds
+Checking segment [brooks] begins at 56.51 & ends at 57.04 seconds
+Checking segment [<sil>] begins at 57.05 & ends at 59.13 seconds
+Skipping segment - <sil>
+Checking segment [the] begins at 59.14 & ends at 59.33 seconds
+Checking segment [nazi] begins at 59.34 & ends at 59.68 seconds
+Checking segment [monkey] begins at 59.69 & ends at 60.21 seconds
+Checking segment [who] begins at 60.22 & ends at 60.3 seconds
+Checking segment [was(2)] begins at 60.31 & ends at 60.46 seconds
+Checking segment [sitting] begins at 60.47 & ends at 60.75 seconds
+Checking segment [on] begins at 60.76 & ends at 60.93 seconds
+Checking segment [the] begins at 60.94 & ends at 61.02 seconds
+Checking segment [piece] begins at 61.03 & ends at 61.35 seconds
+Checking segment [of] begins at 61.36 & ends at 61.57 seconds
+Checking segment [wood] begins at 61.58 & ends at 62.04 seconds
+Checking segment [began(2)] begins at 62.05 & ends at 62.56 seconds
+Checking segment [to] begins at 62.57 & ends at 62.72 seconds
+Checking segment [mosaic] begins at 62.73 & ends at 63.31 seconds
+Checking segment [and(2)] begins at 63.32 & ends at 63.58 seconds
+Checking segment [try] begins at 63.59 & ends at 63.89 seconds
+Checking segment [to] begins at 63.9 & ends at 64.24 seconds
+Checking segment [move] begins at 64.25 & ends at 64.57 seconds
+Checking segment [the] begins at 64.58 & ends at 64.67 seconds
+Checking segment [knowledge] begins at 64.68 & ends at 65.32 seconds
+Checking segment [[NOISE]] begins at 65.33 & ends at 65.63 seconds
+Checking segment [<sil>] begins at 65.64 & ends at 66.19 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 66.2 & ends at 66.39 seconds
+Skipping segment - <sil>
+Checking segment [because(2)] begins at 66.4 & ends at 66.8 seconds
+Checking segment [<sil>] begins at 66.81 & ends at 66.86 seconds
+Skipping segment - <sil>
+Checking segment [of] begins at 66.87 & ends at 66.99 seconds
+Checking segment [the(2)] begins at 67.0 & ends at 67.08 seconds
+Checking segment [shaking] begins at 67.09 & ends at 67.64 seconds
+Checking segment [the(2)] begins at 67.65 & ends at 67.93 seconds
+Checking segment [end] begins at 67.94 & ends at 68.1 seconds
+Checking segment [this] begins at 68.11 & ends at 68.62 seconds
+Checking segment [task] begins at 68.63 & ends at 68.9 seconds
+Checking segment [jet] begins at 68.91 & ends at 69.28 seconds
+Checking segment [couldn't(2)] begins at 69.29 & ends at 69.58 seconds
+Checking segment [stand] begins at 69.59 & ends at 70.1 seconds
+Checking segment [and(2)] begins at 70.11 & ends at 70.35 seconds
+Checking segment [it] begins at 70.36 & ends at 70.42 seconds
+Checking segment [fell] begins at 70.43 & ends at 70.69 seconds
+Checking segment [apart] begins at 70.7 & ends at 71.44 seconds
+Checking segment [<sil>] begins at 71.45 & ends at 72.38 seconds
+Skipping segment - <sil>
+Checking segment [all] begins at 72.39 & ends at 72.7 seconds
+Checking segment [along] begins at 72.71 & ends at 73.16 seconds
+Checking segment [spellbound] begins at 73.17 & ends at 73.97 seconds
+Checking segment [and(2)] begins at 73.98 & ends at 74.13 seconds
+Checking segment [the] begins at 74.14 & ends at 74.23 seconds
+Checking segment [<sil>] begins at 74.24 & ends at 74.33 seconds
+Skipping segment - <sil>
+Checking segment [form] begins at 74.34 & ends at 74.68 seconds
+Checking segment [monkees] begins at 74.69 & ends at 75.28 seconds
+Checking segment [let] begins at 75.29 & ends at 75.61 seconds
+Checking segment [go] begins at 75.62 & ends at 75.83 seconds
+Checking segment [let] begins at 75.84 & ends at 76.03 seconds
+Checking segment [trapped] begins at 76.04 & ends at 76.69 seconds
+Checking segment [<sil>] begins at 76.7 & ends at 77.51 seconds
+Skipping segment - <sil>
+Checking segment [he] begins at 77.52 & ends at 77.73 seconds
+Checking segment [began(2)] begins at 77.74 & ends at 78.22 seconds
+Checking segment [to] begins at 78.23 & ends at 78.35 seconds
+Checking segment [mourn] begins at 78.36 & ends at 78.77 seconds
+Checking segment [in] begins at 78.78 & ends at 79.09 seconds
+Checking segment [pain] begins at 79.1 & ends at 79.68 seconds
+Checking segment [<sil>] begins at 79.69 & ends at 79.95 seconds
+Skipping segment - <sil>
+Checking segment [<sil>] begins at 79.96 & ends at 80.16 seconds
+Skipping segment - <sil>
+Checking segment [finally] begins at 80.17 & ends at 80.88 seconds
+Checking segment [<sil>] begins at 80.89 & ends at 81.12 seconds
+Skipping segment - <sil>
+Checking segment [the] begins at 81.13 & ends at 81.29 seconds
+Checking segment [monte] begins at 81.3 & ends at 81.92 seconds
+Checking segment [god] begins at 81.93 & ends at 82.22 seconds
+Checking segment [wanted] begins at 82.23 & ends at 82.58 seconds
+Checking segment [to] begins at 82.59 & ends at 82.68 seconds
+Checking segment [sell] begins at 82.69 & ends at 82.98 seconds
+Checking segment [it] begins at 82.99 & ends at 83.27 seconds
+Checking segment [<sil>] begins at 83.28 & ends at 83.53 seconds
+Skipping segment - <sil>
+Checking segment [[NOISE]] begins at 83.54 & ends at 84.02 seconds
+Checking segment [<sil>] begins at 84.03 & ends at 84.21 seconds
+Skipping segment - <sil>
+Checking segment [in] begins at 84.22 & ends at 84.39 seconds
+Checking segment [this] begins at 84.4 & ends at 84.58 seconds
+Checking segment [story] begins at 84.59 & ends at 85.07 seconds
+Checking segment [<sil>] begins at 85.08 & ends at 85.23 seconds
+Skipping segment - <sil>
+Checking segment [we] begins at 85.24 & ends at 85.59 seconds
+Checking segment [then] begins at 85.6 & ends at 85.86 seconds
+Checking segment [that] begins at 85.87 & ends at 86.12 seconds
+Checking segment [we] begins at 86.13 & ends at 86.32 seconds
+Checking segment [should] begins at 86.33 & ends at 86.57 seconds
+Checking segment [not] begins at 86.58 & ends at 86.94 seconds
+Checking segment [<sil>] begins at 86.95 & ends at 86.98 seconds
+Skipping segment - <sil>
+Checking segment [to(2)] begins at 86.99 & ends at 87.09 seconds
+Checking segment [step] begins at 87.1 & ends at 87.45 seconds
+Checking segment [<sil>] begins at 87.46 & ends at 87.55 seconds
+Skipping segment - <sil>
+Checking segment [out] begins at 87.56 & ends at 87.72 seconds
+Checking segment [of] begins at 87.73 & ends at 87.95 seconds
+Checking segment [court] begins at 87.96 & ends at 88.35 seconds
+Checking segment [<sil>] begins at 88.36 & ends at 88.39 seconds
+Skipping segment - <sil>
+Checking segment [and(2)] begins at 88.4 & ends at 88.59 seconds
+Checking segment [noah] begins at 88.6 & ends at 88.9 seconds
+Checking segment [doing] begins at 88.91 & ends at 89.22 seconds
+Checking segment [it] begins at 89.23 & ends at 89.3 seconds
+Checking segment [being] begins at 89.31 & ends at 89.49 seconds
+Checking segment [without(2)] begins at 89.5 & ends at 89.95 seconds
+Checking segment [<sil>] begins at 89.96 & ends at 90.01 seconds
+Skipping segment - <sil>
+Checking segment [prior] begins at 90.02 & ends at 90.31 seconds
+Checking segment [thoughts] begins at 90.32 & ends at 90.96 seconds
+Checking segment [</s>] begins at 90.97 & ends at 91.4 seconds
+Skipping segment - </s>
+Enter text to see the occurrence:
+monkey
+The text [monkey] repeated 5 times in the audio file as shown below:
+1. Starts at 0.75 and ends at 1.49
+2. Starts at 3.87 and ends at 4.42
+3. Starts at 8.44 and ends at 9.05
+4. Starts at 46.78 and ends at 47.31
+5. Starts at 59.69 and ends at 60.21
+Enter the number of the segment you want to play:
+4

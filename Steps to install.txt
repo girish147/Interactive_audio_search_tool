@@ -1,0 +1,25 @@
+install python
+
+download ffmpeg folder place in c:/ and add bin folder path to Environment Variable
+
+Download, extract and open the Proj folder - right click and slect open terminal.
+In command prompt execute the following one by one:
+
+pip install ffmpeg-python
+pip install SpeechRecognition
+pip install pydub
+pip install keyboard
+pip install pocketsphinx
+
+Change the path(C:/gari) to yours in Code.py
+
+To run the code: (all Case sensitive so first try with below inputs)
+
+
+1) python Code.py
+2) Enter the name of the video file: Monkey
+3) Enter text to see the occurrence:
+	monkey
+4) Enter the number of the segment you want to play: 4
+    
+
